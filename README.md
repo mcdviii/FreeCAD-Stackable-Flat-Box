@@ -22,14 +22,15 @@ a stackable tray. Additional goals are:
   - Width
   - Depth
 
-## ToDO:
+## ToDo:
 
 - [ ] Finish adding all relavant constraints to all solids, re-adding or
       removing constraints as necessary.
 - [ ] Clean up spreadsheet calculations (remove redundancy).
 - [ ] Confirm placement of each solid is calculated through its neighbor, in such a way that
-      changing dimensions doesn't shift parts closer (or further away) from its neighbor.
-
+      changing dimensions doesn't shift parts closer (or further away) from its
+      neighbor.
+      
 ## License:
 
 All items in this project are released under the [GNU GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
