@@ -1,7 +1,6 @@
 # FreeCAD Stackable Flat Box
 
-Adjustable stackable flat box or tray, designed in FreeCAD. Design inspired by a [drawing found on
-3axis.co](*).
+Adjustable stackable flat box or tray, designed in FreeCAD. 
 
 ![Example drawing](Stackable_Flat_Box.svg)
 
