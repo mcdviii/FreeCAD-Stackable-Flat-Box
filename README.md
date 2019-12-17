@@ -30,6 +30,8 @@ a stackable tray. Additional goals are:
 - [ ] Clean up spreadsheet calculations (remove redundancy).
 - [ ] Confirm placement of each solid is calculated through its neighbor, in such a way that
       changing dimensions doesn't shift parts closer (or further away) from its neighbor.
+- [ ] Increase depth of side tabs & add shallow pockets along top edge for
+      stacking rigidity.
 
 ## License:
 
